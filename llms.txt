@@ -1,0 +1,48 @@
+# Geotechnik — Krefeld
+
+> Geotechnical engineering services in Krefeld, Deutschland.
+
+## Services
+- [Anker](https://krefeld.geotechnik.sbs/anker/)
+- [Atterberg Grenzen](https://krefeld.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://krefeld.geotechnik.sbs/aushub/)
+- [Aushub Monitoring](https://krefeld.geotechnik.sbs/aushub-monitoring/)
+- [Bodenplatten](https://krefeld.geotechnik.sbs/bodenplatten/)
+- [Bodenverbesserung](https://krefeld.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilitat](https://krefeld.geotechnik.sbs/boschungsstabilitat/)
+- [Cbr Strasse](https://krefeld.geotechnik.sbs/cbr-strasse/)
+- [Cpt Versuch](https://krefeld.geotechnik.sbs/cpt-versuch/)
+- [Erdbebenisolierung](https://krefeld.geotechnik.sbs/erdbebenisolierung/)
+- [Flexibler Belag](https://krefeld.geotechnik.sbs/flexibler-belag/)
+- [Fundamente](https://krefeld.geotechnik.sbs/fundamente/)
+- [Geophysik](https://krefeld.geotechnik.sbs/geophysik/)
+- [Grundungen](https://krefeld.geotechnik.sbs/grundungen/)
+- [Hange](https://krefeld.geotechnik.sbs/hange/)
+- [In Situ Durchlassigkeit](https://krefeld.geotechnik.sbs/in-situ-durchlassigkeit/)
+- [Korngrossenanalyse](https://krefeld.geotechnik.sbs/korngrossenanalyse/)
+- [Labor](https://krefeld.geotechnik.sbs/labor/)
+- [Labor In Situ](https://krefeld.geotechnik.sbs/labor-in-situ/)
+- [Masw](https://krefeld.geotechnik.sbs/masw/)
+- [Pfahle](https://krefeld.geotechnik.sbs/pfahle/)
+- [Plattendruckversuch](https://krefeld.geotechnik.sbs/plattendruckversuch/)
+- [Ruttelverdichtung](https://krefeld.geotechnik.sbs/ruttelverdichtung/)
+- [Sandkegel Dichte](https://krefeld.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://krefeld.geotechnik.sbs/schottersaulen/)
+- [Schurfgruben](https://krefeld.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://krefeld.geotechnik.sbs/seismik/)
+- [Seismische Refraktion](https://krefeld.geotechnik.sbs/seismische-refraktion/)
+- [Strassenbau](https://krefeld.geotechnik.sbs/strassenbau/)
+- [Stutzmauern](https://krefeld.geotechnik.sbs/stutzmauern/)
+- [Tiefe Aushube](https://krefeld.geotechnik.sbs/tiefe-aushube/)
+- [Triaxialversuch](https://krefeld.geotechnik.sbs/triaxialversuch/)
+- [Untersuchung](https://krefeld.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://krefeld.geotechnik.sbs/verflussigung/)
+- [Weichbodentunnel](https://krefeld.geotechnik.sbs/weichbodentunnel/)
+- [Widerstand](https://krefeld.geotechnik.sbs/widerstand/)
+
+## Contact
+- Website: https://krefeld.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Krefeld, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
